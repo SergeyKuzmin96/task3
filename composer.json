@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "app\\": "app",
+      "models\\": "models"
+    }
+  },
+  "require": {
+    "php": "7.1",
+    "ext-mbstring": "*",
+    "ext-mysqli": "*"
+  }
+}
